@@ -1,1 +1,1 @@
-uname [-s -a ]
+uname -s -a
